@@ -14,3 +14,6 @@
 - Right click on `ALL_BUILD` and then click on `Rebuild`.
 - Right click on `detect_smileys_in_image_cuda` and choose `Set as Startup Project`.
 - Now you can run `detect_smileys_in_image_cuda` (you can change it to `Release` to make it faster).
+
+This should be the output:  
+<img src="./output_images_for_readme/output_image.PNG">
